@@ -1,0 +1,41 @@
+[{
+	"taglia": "S",
+	"colore": "bianco",
+	"prezzo": 4.99
+}, {
+	"taglia": "M",
+	"colore": "bianco",
+	"prezzo": 19.99
+}, {
+	"taglia": "XL",
+	"colore": "bianco",
+	"prezzo": 12.49
+}, {
+	"taglia": "XL",
+	"colore": "bianco",
+	"prezzo": 14.99
+}, {
+	"taglia": "S",
+	"colore": "bianco",
+	"prezzo": 14.99
+}, {
+	"taglia": "S",
+	"colore": "verde",
+	"prezzo": 7.99
+}, {
+	"taglia": "M",
+	"colore": "verde",
+	"prezzo": 4.99
+}, {
+	"taglia": "L",
+	"colore": "verde",
+	"prezzo": 12.49
+}, {
+	"taglia": "XL",
+	"colore": "bianco",
+	"prezzo": 12.49
+}, {
+	"taglia": "M",
+	"colore": "verde",
+	"prezzo": 19.99
+}]
